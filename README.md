@@ -1,6 +1,11 @@
 ### Larynx: a voice based notice board
 A speech to text application
 
+## Tech Stack
+- React-Native
+- Expo CLI
+- Javascript
+
 ## 📷 Screenshots
 <div>
   <img src="https://user-images.githubusercontent.com/72336990/203987714-f41f2718-a84e-45c2-9cf4-30e0f281a39d.jpg" height="600px">
